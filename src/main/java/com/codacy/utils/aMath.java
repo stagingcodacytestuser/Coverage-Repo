@@ -1,10 +1,10 @@
 package com.codacy.utils;
 
-public class Math {
+public class aMath {
 
     private int magicNumber;
 
-    public Math(int magicNumber) {
+    public aMath(int magicNumber) {
         this.magicNumber = magicNumber;
     }
 

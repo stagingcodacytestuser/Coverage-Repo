@@ -1,10 +1,10 @@
 package com.codacy.utils;
 
-public class Math {
+public class NoCoverage {
 
     private int magicNumber;
 
-    public Math(int magicNumber) {
+    public NoCoverage(int magicNumber) {
         this.magicNumber = magicNumber;
     }
 
